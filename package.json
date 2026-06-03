@@ -1,0 +1,9 @@
+{
+  "name": "cryptopunk-nft-generator",
+  "version": "1.0.0",
+  "description": "Generate CryptoPunks using Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
